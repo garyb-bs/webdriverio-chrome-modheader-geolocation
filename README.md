@@ -1,6 +1,6 @@
 <p float="left">
   <img src="https://seeklogo.com/images/W/webdriverio-logo-7E0F1B52E5-seeklogo.com.png" width="200" height="100" title="Percy.IO">
-  <img src="https://static.modheader.§com/logo.png" width="200" height="50" title="Percy.IO2">
+  <img src="https://static.modheader.com/logo.png" width="100" height="50" title="Percy.IO2">
 </p>
 
 # Simple Geolocation Testing in WDIO using Chrome Modheader
